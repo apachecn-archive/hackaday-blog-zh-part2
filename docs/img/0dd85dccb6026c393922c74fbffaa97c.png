@@ -1,0 +1,3562 @@
+
+
+<!DOCTYPE html>
+<html lang="de" class="color-scheme-faculty-mathematical-scientific-technical">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta name="Description" CONTENT="">
+
+    <title>Experimentalphysik VI</title>
+
+    
+    
+        
+            
+
+            
+                <link rel="alternate"
+                      href="http://www.uni-augsburg.de/de/fakultaet/mntf/physik/groups/exp6/"
+                      hreflang="de"/>
+            
+        
+    
+        
+            
+
+            
+                <link rel="alternate"
+                      href="http://www.uni-augsburg.de/en/fakultaet/mntf/physik/groups/exp6/"
+                      hreflang="en"/>
+            
+        
+    
+
+    <link rel="shortcut icon" href="https://assets.uni-augsburg.de/static/unia/img/unia_favicon.ico" title="Uni Augsburg Icon">
+
+    
+
+    
+    
+    <link rel="stylesheet" href="https://assets.uni-augsburg.de/static/unia/css/third_party/bootstrap.min.css">
+    <link rel="stylesheet" href="https://assets.uni-augsburg.de/static/unia/css/third_party/datatables.min.css">
+    <link rel="stylesheet" href="https://assets.uni-augsburg.de/static/unia/css/third_party/responsive.dataTables.min.css">
+    
+
+
+    <link rel="stylesheet" href="https://assets.uni-augsburg.de/static/CACHE/css/output.64430ce6d9e8.css" type="text/css" media="print"><link rel="stylesheet" href="https://assets.uni-augsburg.de/static/CACHE/css/output.7d35f2c2c75d.css" type="text/css">
+
+
+    
+
+    
+
+    
+    
+</head>
+<body>
+    <script src="https://assets.uni-augsburg.de/static/unia/js/highContrast.js"></script>
+
+    
+
+    
+    
+
+<header class="navigation-wrapper print-hide">
+    <div class="navigation-container container">
+        <nav class="navigation navbar navbar-expand-xl">
+            <a class="navigation-brand navbar-brand" href="/de/">
+                <img src="https://assets.uni-augsburg.de/static/unia/img/unia_logo.svg" srcset=""
+                     alt="Uni Augsburg Logo">
+            </a>
+
+            <button id="toggle-navigation" class="navigation-toggler navbar-toggler" type="button"
+                    aria-controls="navbar-main--mobile" aria-expanded="false"
+                    aria-label="Toggle navigation">
+                <span class="navigation-icon"></span>
+                <span class="navigation-icon"></span>
+                <span class="navigation-icon"></span>
+                <span class="navigation-togglerLabel">Menü</span>
+            </button>
+
+            <div class="navigation-metaLinksArea d-none d-xl-block" id="meta-links">
+                <ul class="navigation-metaLinksNav navbar-nav">
+                    
+                        
+<li class="navigation-metaLinksItem nav-item">
+    <a class="navigation-metaLinksLink nav-link js-toggleHighContrast"
+        href="#"
+        
+        title="Hochkontrastmodus">
+        <span class="icon-contrast"></span>
+        
+    </a>
+</li>
+
+                    
+                        
+<li class="navigation-metaLinksItem nav-item">
+    <a class="navigation-metaLinksLink nav-link "
+        href="#"
+        data-target="#searchOverlay"
+        >
+        <span class="icon-search"></span>
+        Suche
+    </a>
+</li>
+
+                    
+                        
+<li class="navigation-metaLinksItem nav-item">
+    <a class="navigation-metaLinksLink nav-link "
+        href="/en/fakultaet/mntf/physik/groups/exp6/"
+        
+        >
+        
+        Englisch
+    </a>
+</li>
+
+                    
+                        
+<li class="navigation-metaLinksItem nav-item">
+    <a class="navigation-metaLinksLink nav-link "
+        href="/portal/intranet/"
+        
+        >
+        
+        Intranet
+    </a>
+</li>
+
+                    
+                        
+<li class="navigation-metaLinksItem nav-item">
+    <a class="navigation-metaLinksLink nav-link "
+        href="/kontakt/"
+        
+        >
+        
+        Kontakt
+    </a>
+</li>
+
+                    
+                        
+<li class="navigation-metaLinksItem nav-item">
+    <a class="navigation-metaLinksLink nav-link hide-logout"
+        href="/admin/logout/?next=/de/fakultaet/mntf/physik/groups/exp6/"
+        
+        title="Abmelden">
+        <span class="icon-logout"></span>
+        
+    </a>
+</li>
+
+                    
+                </ul>
+            </div>
+
+            
+            <div class="navigation-area d-none d-xl-block" id="navbar-main">
+                <ul class="navigation-nav navbar-nav">
+                    
+
+
+    <li class="navigation-item nav-item background-faculty-mathematical-scientific-technical
+        ">
+        <a class="navigation-link nav-link"
+           href="/de/">
+            Universität
+        </a>
+        
+            <div class="navigation-areaDropdown">
+                <ul class="navigation-dropdown"
+                    style="">
+                    
+
+
+    <li class="navigation-dropdownItem  ">
+        <a class="navigation-dropdownLink"
+           href="/de/ueber-uns/"
+           data-target="#dropdown-1-1">
+            Über die Universität
+        </a>
+    </li>
+
+    <li class="navigation-dropdownItem  ">
+        <a class="navigation-dropdownLink"
+           href="/de/verantwortung/"
+           data-target="#dropdown-1-2">
+            Universität in Verantwortung
+        </a>
+    </li>
+
+    <li class="navigation-dropdownItem  ">
+        <a class="navigation-dropdownLink"
+           href="/de/organisation/"
+           data-target="#dropdown-1-3">
+            Organisation
+        </a>
+    </li>
+
+    <li class="navigation-dropdownItem  ">
+        <a class="navigation-dropdownLink"
+           href="/de/jobs-und-karriere/"
+           data-target="#dropdown-1-4">
+            Karriere
+        </a>
+    </li>
+
+    <li class="navigation-dropdownItem  ">
+        <a class="navigation-dropdownLink"
+           href="/de/uni-medien/"
+           data-target="#dropdown-1-5">
+            Uni-Medien
+        </a>
+    </li>
+
+    <li class="navigation-dropdownItem  ">
+        <a class="navigation-dropdownLink"
+           href="/de/foerderer/"
+           data-target="#dropdown-1-6">
+            Freunde &amp; Förderer
+        </a>
+    </li>
+
+    <li class="navigation-dropdownItem  ">
+        <a class="navigation-dropdownLink"
+           href="/de/aufbau-medizin/"
+           data-target="#dropdown-1-7">
+            Aufbau der Universitätsmedizin
+        </a>
+    </li>
+
+    <li class="navigation-dropdownItem  ">
+        <a class="navigation-dropdownLink"
+           href="/de/jubilaeum/"
+           data-target="#dropdown-1-8">
+            Jubiläum &quot;50 Jahre UniA&quot;
+        </a>
+    </li>
+
+                </ul>
+
+                <div class="navigation-areaDropdownInner">
+                    
+
+
+    <ul id="dropdown-1-1"
+        class="navigation-dropdownInner">
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/ueber-uns/leitbild/">
+                    Leitbild
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/ueber-uns/geschichte/">
+                    Geschichte
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/ueber-uns/zahlen/">
+                    Zahlen &amp; Fakten
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/ueber-uns/internationales/">
+                    Internationalisierung
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/ueber-uns/ehrungen/">
+                    Ehrungen &amp; Preise
+                </a>
+            </li>
+        
+    </ul>
+
+    <ul id="dropdown-1-2"
+        class="navigation-dropdownInner">
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/verantwortung/gesundheit/">
+                    Gesundheit in Studium und Beruf
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/verantwortung/gender-equity-diversity/">
+                    Chancengleichheit: Gender Equity &amp; Diversity und Inklusion
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/verantwortung/familienfreundlichkeit/">
+                    Familienfreundlichkeit
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/verantwortung/gefluechtete/">
+                    Engagement für Geflüchtete
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/verantwortung/nachhaltigkeit/">
+                    Nachhaltigkeit
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/verantwortung/energie-sparen/">
+                    Energiesparen
+                </a>
+            </li>
+        
+    </ul>
+
+    <ul id="dropdown-1-3"
+        class="navigation-dropdownInner">
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/organisation/leitung/">
+                    Universitätsleitung
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/organisation/verwaltung/">
+                    Zentrale Universitätsverwaltung
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/organisation/einrichtungen/">
+                    Einrichtungen
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/organisation/gremien/">
+                    Gesamtuniversitäre Gremien
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/organisation/vertretung/">
+                    Gruppen- und Interessensvertretung
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/organisation/bibliothek/">
+                    Universitätsbibliothek
+                </a>
+            </li>
+        
+    </ul>
+
+    <ul id="dropdown-1-4"
+        class="navigation-dropdownInner">
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/jobs-und-karriere/stellenangebote/">
+                    Stellenangebote
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/jobs-und-karriere/neue-beschaftigte/">
+                    Infos für neue Beschäftigte
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/jobs-und-karriere/dual-career/">
+                    Dual Career
+                </a>
+            </li>
+        
+    </ul>
+
+    <ul id="dropdown-1-5"
+        class="navigation-dropdownInner">
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/uni-medien/wissenschaft/">
+                    Wissenschaft und Forschung in Augsburg
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/uni-medien/unireden/">
+                    Universitätsreden
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/uni-medien/wegweiser/">
+                    Wegweiser
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/uni-medien/unia-togo/">
+                    UniA to go – Podcast der Universität Augsburg
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/uni-medien/forscherfreitag/">
+                    #forschungsfreitag
+                </a>
+            </li>
+        
+    </ul>
+
+    <ul id="dropdown-1-6"
+        class="navigation-dropdownInner">
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/foerderer/deutschlandstipendium/">
+                    Deutschlandstipendium
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/foerderer/gdf/">
+                    Gesellschaft der Freunde der Universität Augsburg
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/foerderer/stiftungen/">
+                    Stiftungen
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/foerderer/foerdermoeglichkeiten/">
+                    Fördermöglichkeiten
+                </a>
+            </li>
+        
+    </ul>
+
+    <ul id="dropdown-1-7"
+        class="navigation-dropdownInner">
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/aufbau-medizin/aktuell/">
+                    Aktuelles
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/aufbau-medizin/studium-und-lehre/">
+                    Studium und Lehre
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/aufbau-medizin/forschung/">
+                    Forschung
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/aufbau-medizin/krankenversorgung/">
+                    Krankenversorgung
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/aufbau-medizin/medizin-campus/">
+                    Medizin-Campus
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/aufbau-medizin/meilensteine/">
+                    Meilensteine
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/aufbau-medizin/haufige-fragen/">
+                    Häufige Fragen ...
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/aufbau-medizin/kontakt/">
+                    Kontakt
+                </a>
+            </li>
+        
+    </ul>
+
+    <ul id="dropdown-1-8"
+        class="navigation-dropdownInner">
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/jubilaeum/50-jahre-geschichten/">
+                    50 Jahre: viele Geschichten
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/jubilaeum/festakt/">
+                    Festakt
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/jubilaeum/vorlesunghochzwei/">
+                    Ringvorlesung &quot;Hoch Zwei&quot;
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/campusleben/50-jahre/">
+                    50 Jahre – viele Geschichten
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/jubilaeum/50-bilder/">
+                    Austellung: 50 Jahre - 50 Bilder
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/jubilaeum/festschrift/">
+                    Festschrift
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/jubilaeum/postkartenwettbewerb/">
+                    Postkartenwettbewerb
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/jubilaeum/positionsbestimmungen-universitat-im-wandel/">
+                    Positionsbestimmungen - Universität im Wandel
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/jubilaeum/aktionen_programm_termine/zwischenzeit/">
+                    Pop-Up-Store &quot;Zwischenzeit&quot;
+                </a>
+            </li>
+        
+    </ul>
+
+                </div>
+            </div>
+        
+    </li>
+
+    <li class="navigation-item nav-item background-faculty-mathematical-scientific-technical
+        ">
+        <a class="navigation-link nav-link"
+           href="/de/studium/">
+            Studium
+        </a>
+        
+            <div class="navigation-areaDropdown">
+                <ul class="navigation-dropdown"
+                    style="">
+                    
+
+
+    <li class="navigation-dropdownItem  ">
+        <a class="navigation-dropdownLink"
+           href="/de/studium/orientierung/"
+           data-target="#dropdown-2-1">
+            Studienorientierung
+        </a>
+    </li>
+
+    <li class="navigation-dropdownItem  ">
+        <a class="navigation-dropdownLink"
+           href="/de/studium/studienangebot/"
+           data-target="#dropdown-2-2">
+            Studienangebot
+        </a>
+    </li>
+
+    <li class="navigation-dropdownItem  ">
+        <a class="navigation-dropdownLink"
+           href="/de/studium/studieren-augsburg/"
+           data-target="#dropdown-2-3">
+            Studieren in Augsburg
+        </a>
+    </li>
+
+    <li class="navigation-dropdownItem  ">
+        <a class="navigation-dropdownLink"
+           href="/de/studium/bewerbung/"
+           data-target="#dropdown-2-4">
+            Zugang und Bewerbung
+        </a>
+    </li>
+
+    <li class="navigation-dropdownItem  ">
+        <a class="navigation-dropdownLink"
+           href="/de/studium/organisation-beratung/"
+           data-target="#dropdown-2-5">
+            Beratung und Organisation im Studium
+        </a>
+    </li>
+
+    <li class="navigation-dropdownItem  ">
+        <a class="navigation-dropdownLink"
+           href="/de/studium/ausland/"
+           data-target="#dropdown-2-6">
+            Auslandsaufenthalte
+        </a>
+    </li>
+
+    <li class="navigation-dropdownItem  ">
+        <a class="navigation-dropdownLink"
+           href="/de/studium/zusatzqualifikationen/"
+           data-target="#dropdown-2-7">
+            Zusatzqualifikationen
+        </a>
+    </li>
+
+    <li class="navigation-dropdownItem  ">
+        <a class="navigation-dropdownLink"
+           href="/de/studium/studentisches-leben/"
+           data-target="#dropdown-2-8">
+            Studentisches Leben
+        </a>
+    </li>
+
+    <li class="navigation-dropdownItem  ">
+        <a class="navigation-dropdownLink"
+           href="/de/studium/nach-dem-studium/"
+           data-target="#dropdown-2-9">
+            Studienabschluss &amp; Beruf
+        </a>
+    </li>
+
+                </ul>
+
+                <div class="navigation-areaDropdownInner">
+                    
+
+
+    <ul id="dropdown-2-1"
+        class="navigation-dropdownInner">
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/studium/orientierung/studienberatung/">
+                    Beratung für Studieninteressierte
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/studium/orientierung/beginn-verlauf/">
+                    Studienbeginn und -verlauf
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/studium/orientierung/messen/">
+                    Messen und Infotage an Schulen
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/studium/orientierung/schnupperangebote/">
+                    Schnupperangebote
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/studium/orientierung/angebote_schulen/">
+                    Angebote für Schulen
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/studium/orientierung/schulerinfotag/">
+                    SchülerInfoTag
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/studium/orientierung/master-info/">
+                    Infoveranstaltungen für Master-Interessierte
+                </a>
+            </li>
+        
+    </ul>
+
+    <ul id="dropdown-2-2"
+        class="navigation-dropdownInner">
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/studium/studienangebot/uebersicht/">
+                    Studiengänge
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/studium/studienangebot/berufsbegleitend/">
+                    Berufsbegleitende Angebote &amp; Weiterbildung
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/studium/studienangebot/promotion/">
+                    Promotion
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/studium/studienangebot/fruehstudium/">
+                    Früh- bzw. Schülerstudium
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/studium/studienangebot/gasthoerer/">
+                    Angebote für Gasthörerinnen und Gasthörer
+                </a>
+            </li>
+        
+    </ul>
+
+    <ul id="dropdown-2-3"
+        class="navigation-dropdownInner">
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/studium/studieren-augsburg/studienort/">
+                    Studienort Augsburg
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/studium/studieren-augsburg/semesterticket/">
+                    Semesterticket und CAMPUS CARD
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/studium/studieren-augsburg/finanzierung/">
+                    Finanzierung
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/studium/studieren-augsburg/wohnen/">
+                    Wohnen
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/studium/studieren-augsburg/stipendien/">
+                    Stipendien
+                </a>
+            </li>
+        
+    </ul>
+
+    <ul id="dropdown-2-4"
+        class="navigation-dropdownInner">
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/studium/bewerbung/voraussetzungen/">
+                    Zugangsvoraussetzungen
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/studium/bewerbung/voraussetzungen/bewerbung-ohne-abitur-und-mit-beruflicher-qualifikation/">
+                    Studieren ohne Abitur
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/studium/bewerbung/bewerbung/">
+                    Bewerbung
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/studium/bewerbung/einschreibung/">
+                    Einschreibung
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/studium/bewerbung/studienplatztausch/">
+                    Studienplatztausch
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/studium/bewerbung/versicherung/">
+                    Kranken- und Unfallversicherung
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/studium/bewerbung/hochschulwechsel/">
+                    Hochschulwechsel
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/studium/bewerbung/doppelstudium/">
+                    Doppelstudium
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/studium/bewerbung/eignungspruefungen/">
+                    Eignungsverfahren
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/studium/bewerbung/studiengang-oder-studienfachwechsel/">
+                    Studiengang- oder Studienfachwechsel
+                </a>
+            </li>
+        
+    </ul>
+
+    <ul id="dropdown-2-5"
+        class="navigation-dropdownInner">
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/studium/organisation-beratung/beginn-verlauf/">
+                    Studienbeginn und -verlauf
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/studium/organisation-beratung/beratung/">
+                    Beratungsangebote
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/studium/organisation-beratung/organisation-und-formales/">
+                    Organisation und Formales
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/studium/organisation-beratung/fristen-und-termine/">
+                    Fristen und Termine
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/studium/organisation-beratung/vorlesungsverzeichnis/">
+                    Vorlesungsverzeichnis
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/studium/organisation-beratung/pruefungen/">
+                    Prüfungen
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/studium/organisation-beratung/berufsorientierung/">
+                    Berufsorientierung &amp; Berufseinstieg
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/studium/organisation-beratung/online-lehre-corona/">
+                    Online-Lehre in der Pandemie
+                </a>
+            </li>
+        
+    </ul>
+
+    <ul id="dropdown-2-6"
+        class="navigation-dropdownInner">
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/studium/ausland/studium/">
+                    Studium im Ausland
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/studium/ausland/praktikum/">
+                    Praktikum im Ausland
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/studium/ausland/finanzierung/">
+                    Finanzierung
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/studium/ausland/interkulturelles/">
+                    Interkulturelles
+                </a>
+            </li>
+        
+    </ul>
+
+    <ul id="dropdown-2-7"
+        class="navigation-dropdownInner">
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/studium/zusatzqualifikationen/vhb/">
+                    Virtuelle Hochschule Bayern
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/studium/zusatzqualifikationen/sprachen/">
+                    Sprachen lernen
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/studium/ausland/interkulturelles/zis/">
+                    Interkulturelle Schlüsselqualifikation
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/studium/zusatzqualifikationen/edv-kurse/">
+                    EDV-Kurse
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/studium/zusatzqualifikationen/klever/">
+                    KLeVer
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/studium/zusatzqualifikationen/profilbildung/">
+                    Profilbildung
+                </a>
+            </li>
+        
+    </ul>
+
+    <ul id="dropdown-2-8"
+        class="navigation-dropdownInner">
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/studium/studentisches-leben/gruppen/">
+                    Studentische Initiativen
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/studium/studentisches-leben/studierendenvertretung/">
+                    Studierendenvertretung
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/studium/studentisches-leben/hochschulwahlen/">
+                    Hochschulwahlen
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/studium/studentisches-leben/sport/">
+                    Hochschulsport
+                </a>
+            </li>
+        
+    </ul>
+
+    <ul id="dropdown-2-9"
+        class="navigation-dropdownInner">
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/studium/nach-dem-studium/alumni/">
+                    Alumni-Netzwerk
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/studium/nach-dem-studium/berufseinstieg/">
+                    Berufseinstieg
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/studium/nach-dem-studium/gruenderberatung/">
+                    Gründungsberatung
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/studium/nach-dem-studium/weiterbildung/">
+                    Weiterbildungsangebote
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/studium/nach-dem-studium/promotion/">
+                    Promotion
+                </a>
+            </li>
+        
+    </ul>
+
+                </div>
+            </div>
+        
+    </li>
+
+    <li class="navigation-item nav-item background-faculty-mathematical-scientific-technical
+        ">
+        <a class="navigation-link nav-link"
+           href="/de/forschung/">
+            Forschung
+        </a>
+        
+            <div class="navigation-areaDropdown">
+                <ul class="navigation-dropdown"
+                    style="">
+                    
+
+
+    <li class="navigation-dropdownItem  ">
+        <a class="navigation-dropdownLink"
+           href="/de/forschung/profil/"
+           data-target="#dropdown-3-1">
+            Forschungsprofil
+        </a>
+    </li>
+
+    <li class="navigation-dropdownItem  ">
+        <a class="navigation-dropdownLink"
+           href="/de/forschung/projekte/"
+           data-target="#dropdown-3-2">
+            Forschungsprojekte
+        </a>
+    </li>
+
+    <li class="navigation-dropdownItem  ">
+        <a class="navigation-dropdownLink"
+           href="/de/forschung/foerderung/"
+           data-target="#dropdown-3-3">
+            Nachwuchsförderung und Promotion
+        </a>
+    </li>
+
+    <li class="navigation-dropdownItem  ">
+        <a class="navigation-dropdownLink"
+           href="/de/forschung/einrichtungen/"
+           data-target="#dropdown-3-4">
+            Forschungseinrichtungen
+        </a>
+    </li>
+
+    <li class="navigation-dropdownItem  ">
+        <a class="navigation-dropdownLink"
+           href="/de/forschung/forschende-aus-dem-ausland/"
+           data-target="#dropdown-3-5">
+            Wissenschaftlerinnen und Wissenschaftler aus dem Ausland
+        </a>
+    </li>
+
+    <li class="navigation-dropdownItem  ">
+        <a class="navigation-dropdownLink"
+           href="/de/forschung/forschungspotenziale-nutzen/"
+           data-target="#dropdown-3-6">
+            Maßnahmenpaket „Forschungspotenziale besser nutzen!“
+        </a>
+    </li>
+
+    <li class="navigation-dropdownItem  ">
+        <a class="navigation-dropdownLink"
+           href="/de/forschung/transfer/"
+           data-target="#dropdown-3-7">
+            Transfer
+        </a>
+    </li>
+
+                </ul>
+
+                <div class="navigation-areaDropdownInner">
+                    
+
+
+    <ul id="dropdown-3-1"
+        class="navigation-dropdownInner">
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/forschung/profil/umwelt-und-klima/">
+                    Umwelt und Klima
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/forschung/profil/gesundheit-und-medizin/">
+                    Gesundheit und Medizin
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/forschung/profil/neue-materialien-und-werkstoffe/">
+                    Neue Materialien und Werkstoffe
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/forschung/profil/daten-und-kunstliche-intelligenz/">
+                    Daten und Künstliche Intelligenz
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/forschung/profil/gesellschaft-und-geschichte/">
+                    Gesellschaft und Geschichte
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/forschung/profil/okonomie-und-recht/">
+                    Ökonomie und Recht
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/forschung/profil/sprachen-und-literatur/">
+                    Sprachen und Literatur
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/forschung/profil/lehr-und-lernforschung/">
+                    Lehr- und Lernforschung
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/forschung/profil/kunst-und-musik/">
+                    Kunst und Musik
+                </a>
+            </li>
+        
+    </ul>
+
+    <ul id="dropdown-3-2"
+        class="navigation-dropdownInner">
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/forschung/projekte/lehet/">
+                    LeHet
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/forschung/projekte/kodill/">
+                    KodiLL
+                </a>
+            </li>
+        
+    </ul>
+
+    <ul id="dropdown-3-3"
+        class="navigation-dropdownInner">
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/forschung/foerderung/promotion/">
+                    Promotion
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/forschung/foerderung/graduiertenprogramme/">
+                    Graduiertenprogramme
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/forschung/foerderung/stipendien-fur-graduierte/">
+                    Stipendien für Graduierte
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/forschung/foerderung/wissenschaftlicher-nachwuchs/">
+                    Förderung des wissenschaftlichen Nachwuchses
+                </a>
+            </li>
+        
+    </ul>
+
+    <ul id="dropdown-3-4"
+        class="navigation-dropdownInner">
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/forschung/einrichtungen/fakultaeten/">
+                    Fakultäten
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/forschung/einrichtungen/institute/">
+                    Institute und Zentren
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/forschung/foerderung/graduiertenprogramme/">
+                    Graduiertenschulen
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/organisation/gremien/kommission-forschung/">
+                    Forschungskommission
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/forschung/einrichtungen/ausseruniversitare-forschungseinrichtungen/">
+                    Außeruniversitäre Forschungseinrichtungen
+                </a>
+            </li>
+        
+    </ul>
+
+    <ul id="dropdown-3-5"
+        class="navigation-dropdownInner">
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/forschung/forschende-aus-dem-ausland/wohnen/">
+                    Wohnungssuche
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/forschung/forschende-aus-dem-ausland/veranstaltungen/">
+                    Veranstaltungen des Welcome Service
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/forschung/forschende-aus-dem-ausland/organisatorisches-fur-forschende-aus-dem-ausland/">
+                    Organisatorisches für Forschende aus dem Ausland
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/forschung/forschende-aus-dem-ausland/anlaufstellen-hinweise/">
+                    Anlaufstellen &amp; Hinweise
+                </a>
+            </li>
+        
+    </ul>
+
+    <ul id="dropdown-3-6"
+        class="navigation-dropdownInner">
+        
+    </ul>
+
+    <ul id="dropdown-3-7"
+        class="navigation-dropdownInner">
+        
+    </ul>
+
+                </div>
+            </div>
+        
+    </li>
+
+    <li class="navigation-item nav-item background-faculty-mathematical-scientific-technical
+        ">
+        <a class="navigation-link nav-link"
+           href="/de/campusleben/">
+            Campusleben
+        </a>
+        
+            <div class="navigation-areaDropdown">
+                <ul class="navigation-dropdown"
+                    style="">
+                    
+
+
+    <li class="navigation-dropdownItem  ">
+        <a class="navigation-dropdownLink"
+           href="/de/campusleben/neuigkeiten/"
+           data-target="#dropdown-4-1">
+            Neuigkeiten
+        </a>
+    </li>
+
+    <li class="navigation-dropdownItem  ">
+        <a class="navigation-dropdownLink"
+           href="/de/campusleben/veranstaltungen/"
+           data-target="#dropdown-4-2">
+            Öffentliche Veranstaltungen
+        </a>
+    </li>
+
+    <li class="navigation-dropdownItem  ">
+        <a class="navigation-dropdownLink"
+           href="/de/campusleben/musik-kultur/"
+           data-target="#dropdown-4-3">
+            Musik &amp; Kultur
+        </a>
+    </li>
+
+    <li class="navigation-dropdownItem  ">
+        <a class="navigation-dropdownLink"
+           href="/de/campusleben/natur/"
+           data-target="#dropdown-4-4">
+            Natur auf dem Campus
+        </a>
+    </li>
+
+    <li class="navigation-dropdownItem  ">
+        <a class="navigation-dropdownLink"
+           href="/de/campusleben/uni-shop/"
+           data-target="#dropdown-4-5">
+            Uni-Shop
+        </a>
+    </li>
+
+    <li class="navigation-dropdownItem  ">
+        <a class="navigation-dropdownLink"
+           href="/de/campusleben/corona/"
+           data-target="#dropdown-4-6">
+            Informationen zum Coronavirus
+        </a>
+    </li>
+
+                </ul>
+
+                <div class="navigation-areaDropdownInner">
+                    
+
+
+    <ul id="dropdown-4-1"
+        class="navigation-dropdownInner">
+        
+    </ul>
+
+    <ul id="dropdown-4-2"
+        class="navigation-dropdownInner">
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/campusleben/veranstaltungen/lange-nacht-der-wissenschaft/">
+                    Lange Nacht der Wissenschaft
+                </a>
+            </li>
+        
+    </ul>
+
+    <ul id="dropdown-4-3"
+        class="navigation-dropdownInner">
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/campusleben/musik-kultur/collegium-musicum/">
+                    collegium musicum
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/campusleben/musik-kultur/anglistentheater/">
+                    AnglistenTheater
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/campusleben/musik-kultur/kunstamcampus1/">
+                    Kunst am Campus
+                </a>
+            </li>
+        
+    </ul>
+
+    <ul id="dropdown-4-4"
+        class="navigation-dropdownInner">
+        
+    </ul>
+
+    <ul id="dropdown-4-5"
+        class="navigation-dropdownInner">
+        
+    </ul>
+
+    <ul id="dropdown-4-6"
+        class="navigation-dropdownInner">
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/campusleben/corona/pruefungen/">
+                    Prüfungen in Zeiten von Corona
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/campusleben/corona/teststation/">
+                    Corona-Schnelltests für Beschäftigte und Studierende
+                </a>
+            </li>
+        
+    </ul>
+
+                </div>
+            </div>
+        
+    </li>
+
+    <li class="navigation-item nav-item background-faculty-mathematical-scientific-technical
+         ancestor">
+        <a class="navigation-link nav-link"
+           href="/de/fakultaet/">
+            Fakultäten
+        </a>
+        
+            <div class="navigation-areaDropdown">
+                <ul class="navigation-dropdown"
+                    style="">
+                    
+
+
+    <li class="navigation-dropdownItem  ">
+        <a class="navigation-dropdownLink"
+           href="/de/fakultaet/kthf/"
+           data-target="#dropdown-5-1">
+            Katholisch-Theologische Fakultät
+        </a>
+    </li>
+
+    <li class="navigation-dropdownItem  ">
+        <a class="navigation-dropdownLink"
+           href="/de/fakultaet/wiwi/"
+           data-target="#dropdown-5-2">
+            Wirtschaftswissenschaftliche Fakultät
+        </a>
+    </li>
+
+    <li class="navigation-dropdownItem  ">
+        <a class="navigation-dropdownLink"
+           href="/de/fakultaet/jura/"
+           data-target="#dropdown-5-3">
+            Juristische Fakultät
+        </a>
+    </li>
+
+    <li class="navigation-dropdownItem  ">
+        <a class="navigation-dropdownLink"
+           href="/de/fakultaet/philsoz/"
+           data-target="#dropdown-5-4">
+            Philosophisch-Sozialwissenschaftliche Fakultät
+        </a>
+    </li>
+
+    <li class="navigation-dropdownItem  ">
+        <a class="navigation-dropdownLink"
+           href="/de/fakultaet/philhist/"
+           data-target="#dropdown-5-5">
+            Philologisch-Historische Fakultät
+        </a>
+    </li>
+
+    <li class="navigation-dropdownItem ancestor ">
+        <a class="navigation-dropdownLink"
+           href="/de/fakultaet/mntf/"
+           data-target="#dropdown-5-6">
+            Mathematisch-Naturwissenschaftlich-Technische Fakultät
+        </a>
+    </li>
+
+    <li class="navigation-dropdownItem  ">
+        <a class="navigation-dropdownLink"
+           href="/de/fakultaet/fai/"
+           data-target="#dropdown-5-7">
+            Fakultät für Angewandte Informatik
+        </a>
+    </li>
+
+    <li class="navigation-dropdownItem  ">
+        <a class="navigation-dropdownLink"
+           href="/de/fakultaet/med/"
+           data-target="#dropdown-5-8">
+            Medizinische Fakultät
+        </a>
+    </li>
+
+                </ul>
+
+                <div class="navigation-areaDropdownInner">
+                    
+
+
+    <ul id="dropdown-5-1"
+        class="navigation-dropdownInner">
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/fakultaet/kthf/lehrstuhle-professuren/">
+                    Lehrstühle &amp; Professuren
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/fakultaet/kthf/dekanat/">
+                    Dekanat &amp; Ansprechpartner
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/fakultaet/kthf/studium/">
+                    Studium &amp; Lehre
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/fakultaet/kthf/forschung/">
+                    Forschung an der KThF
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/fakultaet/kthf/studieninteressierte/">
+                    Studieninteressierte
+                </a>
+            </li>
+        
+    </ul>
+
+    <ul id="dropdown-5-2"
+        class="navigation-dropdownInner">
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/fakultaet/wiwi/aktuelles/">
+                    Aktuelles
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/fakultaet/wiwi/dekanat/">
+                    Dekanat &amp; Einrichtungen
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/fakultaet/wiwi/studieren-wiwi/">
+                    Studieren an der Wiwi
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/fakultaet/wiwi/studienangebot/">
+                    Studienangebot
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/fakultaet/wiwi/studienorganisation/">
+                    Studienorganisation
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/fakultaet/wiwi/prof/">
+                    Professuren &amp; Cluster
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/fakultaet/wiwi/transferprofil/">
+                    Transferprofil
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/fakultaet/wiwi/cir/">
+                    Center for International Relations
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/fakultaet/wiwi/itwiwi/">
+                    it.WiWi
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/fakultaet/wiwi/lsz/">
+                    Lern- und Servicezentrum
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="https://dyn.wiwi.uni-augsburg.de/virtualtour/">
+                    Virtueller Rundgang
+                </a>
+            </li>
+        
+    </ul>
+
+    <ul id="dropdown-5-3"
+        class="navigation-dropdownInner">
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/fakultaet/jura/stellen/">
+                    Stellenausschreibungen an der Juristischen Fakultät
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/fakultaet/jura/lehre-und-studium/">
+                    Lehre und Studium
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/fakultaet/jura/forschung/">
+                    Forschung
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/fakultaet/jura/internationales/">
+                    Internationales
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/fakultaet/jura/fakultat/">
+                    Fakultät
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/fakultaet/jura/lehrende/">
+                    Lehrende
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/fakultaet/jura/fam/">
+                    Frauen arbeiten miteinander [fam]
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/fakultaet/jura/kurt-bosch-stiftung-sionwallis/">
+                    Kurt-Bösch-Stiftung Sion/Wallis
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/fakultaet/jura/50-jahre/">
+                    50 Jahre Juristische Fakultät
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/fakultaet/jura/asstagung-arbeitsrecht/">
+                    11. Assistentinnen- und Assistententagung im Arbeitsrecht
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/fakultaet/jura/50-jahre/">
+                    50 Jahre Juristische Fakultät
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/fakultaet/jura/46-DStJG-Tagung/">
+                    46. Jahrestagung der Deutschen Steuerjuristischen Gesellschaft e.V.
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/fakultaet/jura/masterclass/">
+                    Legal Masterclass 2023
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="https://lawclinic.jura.uni-augsburg.de">
+                    Lawclinic Augsburg
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="https://www.miplc.de/">
+                    MIPLC
+                </a>
+            </li>
+        
+    </ul>
+
+    <ul id="dropdown-5-4"
+        class="navigation-dropdownInner">
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="https://www.uni-augsburg.de/de/studium/ausland/studium/veranstaltungen/">
+                    Aktuelles
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/fakultaet/philsoz/information/">
+                    Studieninformationen
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/fakultaet/philsoz/studiengange-philsoz/">
+                    Für Studieninteressierte | Studiengänge
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/fakultaet/philsoz/fakultat/">
+                    Fächer &amp; Arbeitsgruppen
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/fakultaet/philsoz/international/">
+                    Internationales
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/fakultaet/philsoz/promotion-philsoz/">
+                    Promotion
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/fakultaet/philsoz/habilitation/">
+                    Habilitation
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/fakultaet/philsoz/forschung/">
+                    Forschung
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/fakultaet/philsoz/dekanat/">
+                    Dekanat
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/fakultaet/philsoz/praktikumsamt/">
+                    Praktikumsamt
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/fakultaet/philsoz/lmz/">
+                    Leopold-Mozart-Zentrum
+                </a>
+            </li>
+        
+    </ul>
+
+    <ul id="dropdown-5-5"
+        class="navigation-dropdownInner">
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/fakultaet/philhist/fakultaet/">
+                    Die Fakultät
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/fakultaet/philhist/studium/">
+                    Studium &amp; Lehre
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/fakultaet/philhist/forschung/">
+                    Forschung
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/fakultaet/philhist/professuren/">
+                    Lehrstühle &amp; Professuren
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/fakultaet/philhist/promotion/">
+                    Promotion
+                </a>
+            </li>
+        
+    </ul>
+
+    <ul id="dropdown-5-6"
+        class="navigation-dropdownInner">
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/fakultaet/mntf/aktuelles/">
+                    Aktuelles
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/fakultaet/mntf/dekanat/">
+                    Dekanat &amp; Ansprechpartner
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/fakultaet/mntf/lehre/">
+                    Lehre
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/fakultaet/mntf/studiengaenge/">
+                    Studiengänge
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/fakultaet/mntf/mrm/">
+                    Institut für Materials Resource Management
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/fakultaet/mntf/math/">
+                    Institut für Mathematik
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/fakultaet/mntf/physik/">
+                    Institut für Physik
+                </a>
+            </li>
+        
+    </ul>
+
+    <ul id="dropdown-5-7"
+        class="navigation-dropdownInner">
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/fakultaet/fai/aktuelles/">
+                    Aktuelles
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/fakultaet/fai/dekanat/">
+                    Dekanat &amp; Ansprechpartner:innen
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/fakultaet/fai/lehrstuhle-und-professoren/">
+                    Lehrstühle und Professuren
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/fakultaet/fai/studium-lehre/">
+                    Studium &amp; Lehre
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/fakultaet/fai/informatik/">
+                    Institut für Informatik
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/fakultaet/fai/geo/">
+                    Institut für Geographie
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/fakultaet/fai/isse/">
+                    Institut für Software &amp; Systems Engineering
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/fakultaet/fai/intern/">
+                    Internes
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/fakultaet/fai/faifrau/">
+                    Frauenbeauftragte
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/fakultaet/fai/graduiertenzentrum-fai/">
+                    Graduiertenzentrum FAI
+                </a>
+            </li>
+        
+    </ul>
+
+    <ul id="dropdown-5-8"
+        class="navigation-dropdownInner">
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/fakultaet/med/neuigkeiten/">
+                    Neuigkeiten
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/fakultaet/med/fakultaet/">
+                    Fakultät
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/fakultaet/med/studium/">
+                    Lehre und Studium
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/fakultaet/med/profs/">
+                    Lehrstühle und Professuren
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/fakultaet/med/forschung/">
+                    Forschung
+                </a>
+            </li>
+        
+            <li class="navigation-dropdownInnerItem ">
+                <a class="navigation-dropdownInnerLink"
+                   href="/de/fakultaet/med/aufbau/">
+                    Aufbau und Entwicklung
+                </a>
+            </li>
+        
+    </ul>
+
+                </div>
+            </div>
+        
+    </li>
+
+                </ul>
+            </div>
+            
+
+            <div class="navigation--mobile d-xl-none collapse navbar-collapse" id="navbar-main--mobile">
+                <div class="navigation-iconBar--mobile d-flex justify-content-between">
+                    <div class="align-self-start">
+                        
+                            <a class="navigation-iconBarLink--mobile"
+                               href="/de/"
+                                >
+                                <span class="icon-home"></span>
+                            </a>
+                        
+                    </div>
+                    <div class="align-self-end">
+                        <a class="navigation-iconBarLink--mobile" href="" data-target="#searchOverlay">
+                            <span class="icon-search"></span>
+                        </a>
+                        <a class="navigation-iconBarLink--mobile"
+                           href="/en/fakultaet/mntf/physik/groups/exp6/">
+                            <span class="icon-globe"></span>
+                        </a>
+                        <a class="navigation-iconBarLink--mobile js-toggleHighContrast"
+                           href="#" title="Hochkontrastmodus">
+                            <span class="icon-contrast"></span>
+                        </a>
+                        
+                    </div>
+                </div>
+
+                <div class="navigation-container--mobile">
+                    <div class="navigation-track--mobile" data-slide-left="0">
+                        <div id="mobile-nav-spinner"></div>
+                        <div class="navigation-area--mobile nav-area">
+                            <ul id="mobile-nav" class="navigation-nav--mobile navbar-nav">
+                                <li class="navigation-item--mobile nav-item">
+                                    <a class="navigation-link--mobile nav-link">
+                                        lädt ...
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+                
+            </div>
+        </nav>
+    </div>
+</header>
+
+<div class="print-absolute print-absolute--top print-only">
+    <div class="container">
+        <img class="print-logo" src="https://assets.uni-augsburg.de/static/unia/img/unia_logo_nav.jpg"
+             alt="Uni Augsburg Logo">
+    </div>
+</div>
+
+<div class="navigation-shadowOverlay--mobile"></div>
+
+
+
+
+    <main class="page-main">
+        
+            
+        
+
+        
+            
+                <section class="section">
+                    <div class="container">
+                        <div class="section-inner pt-4">
+                            
+                                
+
+<ol class="breadcrumbs pb-3" itemscope itemtype="http://schema.org/BreadcrumbList">
+    
+    <li class="breadcrumbs-item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+        <a class="breadcrumbs-itemLink" itemscope itemtype="http://schema.org/Thing" itemprop="item" itemid="/de/" href="/de/">
+            <span class="breadcrumbs-itemLinkText" itemprop="name">Universität</span>
+        </a>
+        <meta itemprop="position" content="1"/>
+    </li>
+
+    <li class="breadcrumbs-item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+        <a class="breadcrumbs-itemLink" itemscope itemtype="http://schema.org/Thing" itemprop="item" itemid="/de/fakultaet/" href="/de/fakultaet/">
+            <span class="breadcrumbs-itemLinkText" itemprop="name">Fakultäten</span>
+        </a>
+        <meta itemprop="position" content="2"/>
+    </li>
+
+    <li class="breadcrumbs-item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+        <a class="breadcrumbs-itemLink" itemscope itemtype="http://schema.org/Thing" itemprop="item" itemid="/de/fakultaet/mntf/" href="/de/fakultaet/mntf/">
+            <span class="breadcrumbs-itemLinkText" itemprop="name">Mathematisch-Naturwissenschaftlich-Technische Fakultät</span>
+        </a>
+        <meta itemprop="position" content="3"/>
+    </li>
+
+    <li class="breadcrumbs-item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+        <a class="breadcrumbs-itemLink" itemscope itemtype="http://schema.org/Thing" itemprop="item" itemid="/de/fakultaet/mntf/physik/" href="/de/fakultaet/mntf/physik/">
+            <span class="breadcrumbs-itemLinkText" itemprop="name">Institut für Physik</span>
+        </a>
+        <meta itemprop="position" content="4"/>
+    </li>
+
+    <li class="breadcrumbs-item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+        <a class="breadcrumbs-itemLink" itemscope itemtype="http://schema.org/Thing" itemprop="item" itemid="/de/fakultaet/mntf/physik/groups/" href="/de/fakultaet/mntf/physik/groups/">
+            <span class="breadcrumbs-itemLinkText" itemprop="name">Lehrstühle, Professuren und Arbeitsgruppen</span>
+        </a>
+        <meta itemprop="position" content="5"/>
+    </li>
+
+    <li class="breadcrumbs-item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+        <a class="breadcrumbs-itemLink" itemscope itemtype="http://schema.org/Thing" itemprop="item" itemid="/de/fakultaet/mntf/physik/groups/exp6/" href="/de/fakultaet/mntf/physik/groups/exp6/">
+            <span class="breadcrumbs-itemLinkText" itemprop="name">Experimentalphysik VI</span>
+        </a>
+        <meta itemprop="position" content="6"/>
+    </li>
+
+</ol>
+                            
+                            
+                                
+<div class="pageHeadline">
+    <h1 class="pageHeadline-title">Experimentalphysik VI
+    </h1>
+
+    <div class="pageHeadline-subtitle">
+        
+            
+            
+        
+    </div>
+</div>
+
+                            
+                        </div>
+                    </div>
+                </section>
+            
+
+            
+
+<section class="section section--content background-white
+    
+    
+    
+    ">
+
+    
+    <div class="container">
+
+
+    
+        
+
+<div  class="section-inner mt-0 mb-0">
+    
+
+    
+        
+
+<div class="linkColumns linkColumns--regular grid">
+    <div class="row">
+        
+            <div class="col">
+                
+
+<div class="linkColumns-column">
+    
+        
+        
+        
+        
+        
+        <div class="linkColumns-columnImage" style="background-image: url('https://assets.uni-augsburg.de/media/filer_public_thumbnails/filer_public/88/ae/88ae6c8b-d45e-4fd3-8ce0-bc4a49269e32/exp_vi_juli_2022.jpg__550x350_q85_crop_subject_location-1504%2C1003_subsampling-2_upscale.jpg')"></div>
+    
+
+    <div class="linkColumns-columnBody">
+        <div class="linkColumns-columnTitle border-faculty-mathematical-scientific-technical">
+            Lehrstuhl
+        </div>
+        <ul class="linkColumns-columnList">
+            
+                <li class="linkColumns-columnItem">
+                    <a class="linkColumns-columnLink " href="/de/fakultaet/mntf/physik/groups/exp6/team/prof-philipp-gegenwart/">
+    Prof. Dr. Philipp Gegenwart
+</a>
+                </li>
+            
+                <li class="linkColumns-columnItem">
+                    <a class="linkColumns-columnLink " href="/de/fakultaet/mntf/physik/groups/exp6/team/prof-dr-thilo-kopp/">
+    Prof. Dr. Thilo Kopp
+</a>
+                </li>
+            
+                <li class="linkColumns-columnItem">
+                    <a class="linkColumns-columnLink " href="/de/fakultaet/mntf/physik/groups/exp6/team/christine-schafer/">
+    Sekretariat
+</a>
+                </li>
+            
+                <li class="linkColumns-columnItem">
+                    <a class="linkColumns-columnLink " href="/de/fakultaet/mntf/physik/groups/exp6/team/">
+    Team
+</a>
+                </li>
+            
+        </ul>
+    </div>
+</div>
+            </div>
+        
+            <div class="col">
+                
+
+<div class="linkColumns-column">
+    
+        
+        
+        
+        
+        
+        <div class="linkColumns-columnImage" style="background-image: url('https://assets.uni-augsburg.de/media/filer_public_thumbnails/filer_public/22/74/22740d31-912b-4695-b3c6-7412f230c575/tt_lab_06-large.jpg__550x350_q85_crop_subject_location-640%2C427_subsampling-2_upscale.jpg')"></div>
+    
+
+    <div class="linkColumns-columnBody">
+        <div class="linkColumns-columnTitle border-faculty-mathematical-scientific-technical">
+            Forschung
+        </div>
+        <ul class="linkColumns-columnList">
+            
+                <li class="linkColumns-columnItem">
+                    <a class="linkColumns-columnLink " href="/de/fakultaet/mntf/physik/groups/exp6/forschung/">
+    Überblick
+</a>
+                </li>
+            
+                <li class="linkColumns-columnItem">
+                    <a class="linkColumns-columnLink " href="/de/fakultaet/mntf/physik/groups/exp6/veroeffentlichungen/">
+    Publikationen
+</a>
+                </li>
+            
+                <li class="linkColumns-columnItem">
+                    <a class="linkColumns-columnLink " href="/de/fakultaet/mntf/physik/groups/exp6/emmy-noether/">
+    Emmy Noether
+</a>
+                </li>
+            
+                <li class="linkColumns-columnItem">
+                    <a class="linkColumns-columnLink linkColumns-columnLink--external" href="https://www.trr80.de/trr80/">
+    TRR80
+</a>
+                </li>
+            
+        </ul>
+    </div>
+</div>
+            </div>
+        
+            <div class="col">
+                
+
+<div class="linkColumns-column">
+    
+        
+        
+        
+        
+        
+        <div class="linkColumns-columnImage" style="background-image: url('https://assets.uni-augsburg.de/media/filer_public_thumbnails/filer_public/81/75/81755d6a-9ae2-4c0a-9a53-0c631c4de112/hswiwi-voll3.jpg__550x350_q85_crop_subject_location-1063%2C663_subsampling-2_upscale.jpg')"></div>
+    
+
+    <div class="linkColumns-columnBody">
+        <div class="linkColumns-columnTitle border-faculty-mathematical-scientific-technical">
+            Lehre
+        </div>
+        <ul class="linkColumns-columnList">
+            
+                <li class="linkColumns-columnItem">
+                    <a class="linkColumns-columnLink " href="/de/fakultaet/mntf/physik/groups/exp6/lehrveranstaltungen/">
+    Lehrveranstaltungen
+</a>
+                </li>
+            
+                <li class="linkColumns-columnItem">
+                    <a class="linkColumns-columnLink " href="/de/fakultaet/mntf/physik/groups/exp6/master-und-bachelorarbeiten/">
+    Bachelor-Projekte
+</a>
+                </li>
+            
+                <li class="linkColumns-columnItem">
+                    <a class="linkColumns-columnLink " href="/de/fakultaet/mntf/physik/groups/exp6/master-und-bachelorarbeiten/">
+    Master-Projekte
+</a>
+                </li>
+            
+        </ul>
+    </div>
+</div>
+            </div>
+        
+            <div class="col">
+                
+
+<div class="linkColumns-column">
+    
+        
+        
+        
+        
+        
+        <div class="linkColumns-columnImage" style="background-image: url('https://assets.uni-augsburg.de/media/filer_public_thumbnails/filer_public/d0/10/d01038a9-4563-44aa-814f-fc0088fdf8d0/colourbox3286440_sgnatiuk_web.jpg__550x350_q85_crop_subject_location-600%2C374_subsampling-2_upscale.jpg')"></div>
+    
+
+    <div class="linkColumns-columnBody">
+        <div class="linkColumns-columnTitle border-faculty-mathematical-scientific-technical">
+            Neuigkeiten
+        </div>
+        <ul class="linkColumns-columnList">
+            
+                <li class="linkColumns-columnItem">
+                    <a class="linkColumns-columnLink " href="/de/fakultaet/mntf/physik/groups/exp6/news/">
+    Aktuelles
+</a>
+                </li>
+            
+                <li class="linkColumns-columnItem">
+                    <a class="linkColumns-columnLink " href="/de/fakultaet/mntf/physik/groups/exp6/jobs/">
+    Jobs
+</a>
+                </li>
+            
+                <li class="linkColumns-columnItem">
+                    <a class="linkColumns-columnLink linkColumns-columnLink--external" href="https://pc210ep6.physik.uni-augsburg.de/exp6/intern/">
+    Intern
+</a>
+                </li>
+            
+        </ul>
+    </div>
+</div>
+            </div>
+        
+    </div>
+</div>
+    
+</div>
+
+    
+
+    
+    </div>
+
+</section>
+
+<section class="section section--content background-gray-bright
+    
+    
+    
+    ">
+
+    
+    <div class="container">
+
+
+    
+        
+
+<div  class="section-inner mt-0 mb-0">
+    
+        <div class="sectionHeadline sectionHeadlineBorder-gray-bright">
+            <div class="sectionHeadline-icon background-faculty-mathematical-scientific-technical background-no-hover">
+                
+                    <span class="icon-messages-bubble-square-text-alternate"></span>
+                
+            </div>
+            <div class="sectionHeadline-body">
+                <h2 class="sectionHeadline-text">
+                    Neuigkeiten
+                </h2>
+            </div>
+        </div>
+    
+
+    
+        
+    
+        
+    <div class="newsColumns">
+        <div class="row col-gap-10 row-gap-40">
+        
+
+
+    
+        <div class="col-lg-6 col-xl-4">
+            <div class="newsColumns-column">
+                <div class="newsColumns-columnBody">
+                    <div class="newsColumns-columnDate">
+                        17. Juni 2022
+                    </div>
+                    
+                        <h2 class="newsColumns-columnHeadline">
+                            <a href="/de/campusleben/neuigkeiten/2022/06/17/6773/">
+                                Grundlagenforschung: Neuartige Quantenmagnete
+                            </a>
+                        </h2>
+                    
+                    <div class="newsColumns-columnText">
+                        <p>In den nächsten zwei Jahren forscht der Alexander-von-Humboldt-Stipendiat Dr. Prashanta Mukharjee an neuartigen Quantenmagneten. Was sich das Physiker-Team am Zentrum für Elektronische Korrelation und Magnetismus der Universität Augsburg vom Forschungsvorhaben im Hinblick auf die Quanteninformationstechnologie erhofft und warum es den Gastwissenschaftler aus Indien auch in die Lehre zieht.</p>
+                        
+                    </div>
+                    
+                        <a class="newsColumns-columnReadMore"
+                           href="/de/campusleben/neuigkeiten/2022/06/17/6773/">
+                            Weiterlesen
+                        </a>
+                    
+                </div>
+
+                
+                    
+                        <a href="/de/campusleben/neuigkeiten/2022/06/17/6773/">
+                            <img class="newsColumns-columnImage"
+                                 src="https://assets.uni-augsburg.de/media/filer_public_thumbnails/filer_public/49/d7/49d7a363-0d38-4e48-b913-83a8c757e340/dr_prashanta_mukharjee_laborarbeit.jpg__600x375_q85_crop_subject_location-2774%2C2334_subsampling-2_upscale.jpg"
+                                 alt="Dr. Prashanta Mukharjee  bei Laborarbeit">
+                        </a>
+                    
+                
+            </div>
+        </div>
+    
+
+    
+        <div class="col-lg-6 col-xl-4">
+            <div class="newsColumns-column">
+                <div class="newsColumns-columnBody">
+                    <div class="newsColumns-columnDate">
+                        28. Mai 2021
+                    </div>
+                    
+                        <h2 class="newsColumns-columnHeadline">
+                            <a href="/de/fakultaet/mntf/physik/groups/exp6/news/unerwartete-magnetische-korrelationen-bei-tiefen-temperaturen/">
+                                Unerwartete magnetische Korrelationen bei tiefen Temperaturen
+                            </a>
+                        </h2>
+                    
+                    <div class="newsColumns-columnText">
+                        <p>Hochauflösende kapazitive Dilatometrie bis zu Millikelvin Temperaturen, in Kombination mit Synchrotron-, Myonen- und Neutronenspektroskopie, beweist antiferromagnetische Korrelationen im stark valenzfluktuierenden Kondogitter CeIrSn</p>
+                        
+                    </div>
+                    
+                        <a class="newsColumns-columnReadMore"
+                           href="/de/fakultaet/mntf/physik/groups/exp6/news/unerwartete-magnetische-korrelationen-bei-tiefen-temperaturen/">
+                            Weiterlesen
+                        </a>
+                    
+                </div>
+
+                
+                    
+                        <a href="/de/fakultaet/mntf/physik/groups/exp6/news/unerwartete-magnetische-korrelationen-bei-tiefen-temperaturen/">
+                            <img class="newsColumns-columnImage"
+                                 src="https://assets.uni-augsburg.de/media/filer_public_thumbnails/filer_public/4a/5e/4a5eab8d-65b6-4056-8e8f-1018acdff36f/dilatometer.jpg__600x375_q85_crop_subject_location-192%2C190_subsampling-2_upscale.jpg"
+                                 alt="Dilatometer">
+                        </a>
+                    
+                
+            </div>
+        </div>
+    
+
+    
+        <div class="col-lg-6 col-xl-4">
+            <div class="newsColumns-column">
+                <div class="newsColumns-columnBody">
+                    <div class="newsColumns-columnDate">
+                        12. April 2021
+                    </div>
+                    
+                        <h2 class="newsColumns-columnHeadline">
+                            <a href="/de/campusleben/neuigkeiten/2021/04/12/4123/">
+                                Quantenboost für klassische Kühltechnik
+                            </a>
+                        </h2>
+                    
+                    <div class="newsColumns-columnText">
+                        <p>Effektive Kühlung bis zu tiefsten Temperaturen am absoluten Nullpunkt ist sowohl für die Grundlagenforschung als auch für den Betrieb künftiger Quantencomputer erforderlich. Ein Forscherteam hat nun für eine seit langem bekannte Kühltechnik eine neue chemische Verbindung entwickelt, in der Quanteneffekte wirken.</p>
+                        
+                    </div>
+                    
+                        <a class="newsColumns-columnReadMore"
+                           href="/de/campusleben/neuigkeiten/2021/04/12/4123/">
+                            Weiterlesen
+                        </a>
+                    
+                </div>
+
+                
+                    
+                        <a href="/de/campusleben/neuigkeiten/2021/04/12/4123/">
+                            <img class="newsColumns-columnImage"
+                                 src="https://assets.uni-augsburg.de/media/filer_public_thumbnails/filer_public/f7/ae/f7ae2aaa-9420-4612-9e32-ab77f4e2202a/prof_gegenwart_1.jpg__600x375_q85_crop_subject_location-901%2C486_subsampling-2_upscale.jpg"
+                                 alt="Professor Phillip Gegenwart steht Tieftemperaturlabor">
+                        </a>
+                    
+                
+            </div>
+        </div>
+    
+
+    
+        <div class="col-lg-6 col-xl-4">
+            <div class="newsColumns-column">
+                <div class="newsColumns-columnBody">
+                    <div class="newsColumns-columnDate">
+                        17. März 2020
+                    </div>
+                    
+                        <h2 class="newsColumns-columnHeadline">
+                            <a href="/de/campusleben/neuigkeiten/2020/03/17/1749/">
+                                „Kagome-Spin-Eis“-Verhalten
+                            </a>
+                        </h2>
+                    
+                    <div class="newsColumns-columnText">
+                        <p>Bricht man einen Stabmagneten in zwei Teile, so hat jeder der beiden wieder einen Nord- und einen Südpol. Einzeln bewegliche magnetische Monopole waren bislang nur aus einer einzigen Klasse von magnetischen Kristallen bekannt. Ein internationales Forscherteam unter Leitung der Universität Augsburg hat nun Monopole in einem „Kagome-Spin-Eis“-Material nachgewiesen, das zudem elektrisch leitfähig ist.</p>
+                        
+                    </div>
+                    
+                        <a class="newsColumns-columnReadMore"
+                           href="/de/campusleben/neuigkeiten/2020/03/17/1749/">
+                            Weiterlesen
+                        </a>
+                    
+                </div>
+
+                
+                    
+                        <a href="/de/campusleben/neuigkeiten/2020/03/17/1749/">
+                            <img class="newsColumns-columnImage"
+                                 src="https://assets.uni-augsburg.de/media/filer_public_thumbnails/filer_public/43/b3/43b33a78-99f9-4eb4-bf5d-74c54fa528a7/picture_press_release.jpeg__600x375_q85_crop_subject_location-802%2C382_subsampling-2_upscale.jpg"
+                                 alt="Kagome-Spin-Eis Effekte">
+                        </a>
+                    
+                
+            </div>
+        </div>
+    
+
+    
+        <div class="col-lg-6 col-xl-4">
+            <div class="newsColumns-column">
+                <div class="newsColumns-columnBody">
+                    <div class="newsColumns-columnDate">
+                        11. Dezember 2019
+                    </div>
+                    
+                        <h2 class="newsColumns-columnHeadline">
+                            <a href="/de/campusleben/neuigkeiten/2019/12/11/1171/">
+                                Metall mit ungewöhnlichen Eigenschaften
+                            </a>
+                        </h2>
+                    
+                    <div class="newsColumns-columnText">
+                        <p>Eine chinesisch-deutsche Forschungskooperation mit Beteiligung der Universität Augsburg hat bei einem Metall Eigenschaften nachgewiesen, die sich mit gängigen physikalischen Theorien nicht erklären lassen. Die Ergebnisse wurden an einer speziellen metallischen Verbindung mit ungewöhnlichen magnetischen Charakteristika erzielt – Wissenschaftler sprechen auch von magnetischer Frustration.</p>
+                        
+                    </div>
+                    
+                        <a class="newsColumns-columnReadMore"
+                           href="/de/campusleben/neuigkeiten/2019/12/11/1171/">
+                            Weiterlesen
+                        </a>
+                    
+                </div>
+
+                
+                    
+                        <a href="/de/campusleben/neuigkeiten/2019/12/11/1171/">
+                            <img class="newsColumns-columnImage"
+                                 src="https://assets.uni-augsburg.de/media/filer_public_thumbnails/filer_public/b8/eb/b8eb6f98-4569-46b7-a9e3-87bc7463c0c6/frustrierte_metalle_2.jpg__600x375_q85_crop_subject_location-767%2C686_subsampling-2_upscale.jpg"
+                                 alt="Infografik">
+                        </a>
+                    
+                
+            </div>
+        </div>
+    
+
+    
+        <div class="col-lg-6 col-xl-4">
+            <div class="newsColumns-column">
+                <div class="newsColumns-columnBody">
+                    <div class="newsColumns-columnDate">
+                        25. August 2019
+                    </div>
+                    
+                        <h2 class="newsColumns-columnHeadline">
+                            <a href="/de/campusleben/neuigkeiten/2019/08/25/581/">
+                                Kristallzucht bei 1600°C
+                            </a>
+                        </h2>
+                    
+                    <div class="newsColumns-columnText">
+                        <p>Für seine innovativen Beiträge zur Synthese von komplexen magnetischen und stark-korrelierten Materialien ist der Augsburger EKM-Physiker Dr. Anton Jesche von der International Organization for Crystal Growth mit dem in der Kristallzüchter-Community hoch angesehenen Schieber-Preis ausgezeichnet worden.</p>
+                        
+                    </div>
+                    
+                        <a class="newsColumns-columnReadMore"
+                           href="/de/campusleben/neuigkeiten/2019/08/25/581/">
+                            Weiterlesen
+                        </a>
+                    
+                </div>
+
+                
+                    
+                        <a href="/de/campusleben/neuigkeiten/2019/08/25/581/">
+                            <img class="newsColumns-columnImage"
+                                 src="https://assets.uni-augsburg.de/media/filer_public_thumbnails/filer_public/c4/9a/c49a8028-83b2-47ef-bb71-8f8374ac256a/jesche-hp.jpeg__600x375_q85_crop_subject_location-289%2C154_subsampling-2_upscale.jpg"
+                                 alt="Schieber-Preisträger Anton Jesche zwischen (l.)  Thomas Kuech, dem Vorsitzenden des Preiskommitees (University of Wisconsin-Madison), und dem IOCG-Präsidenten Koichi Kakimoto (Kyushu University).">
+                        </a>
+                    
+                
+            </div>
+        </div>
+    
+
+    
+        <div class="col-lg-6 col-xl-4">
+            <div class="newsColumns-column">
+                <div class="newsColumns-columnBody">
+                    <div class="newsColumns-columnDate">
+                        15. April 2019
+                    </div>
+                    
+                        <h2 class="newsColumns-columnHeadline">
+                            <a href="/de/campusleben/neuigkeiten/2019/04/15/211/">
+                                Anregungen magnetischer Valenzbindungen
+                            </a>
+                        </h2>
+                    
+                    <div class="newsColumns-columnText">
+                        <p>Augsburger Physikern gelingt der experimentelle Nachweis fundamentaler Prozesse in Quanten-Spinflüssigkeiten.</p>
+                        
+                    </div>
+                    
+                        <a class="newsColumns-columnReadMore"
+                           href="/de/campusleben/neuigkeiten/2019/04/15/211/">
+                            Weiterlesen
+                        </a>
+                    
+                </div>
+
+                
+                    
+                        <a href="/de/campusleben/neuigkeiten/2019/04/15/211/">
+                            <img class="newsColumns-columnImage"
+                                 src="https://assets.uni-augsburg.de/media/filer_public_thumbnails/filer_public/21/e8/21e82cc0-611f-45a2-94cc-625b8102d292/abbildung-presseerkla_rung-gegenwart-kopie.jpg__600x375_q85_crop_subject_location-662%2C530_subsampling-2_upscale.jpg"
+                                 alt="Darstellung Experiment">
+                        </a>
+                    
+                
+            </div>
+        </div>
+    
+
+    
+        <div class="col-lg-6 col-xl-4">
+            <div class="newsColumns-column">
+                <div class="newsColumns-columnBody">
+                    <div class="newsColumns-columnDate">
+                        16. April 2018
+                    </div>
+                    
+                        <h2 class="newsColumns-columnHeadline">
+                            <a href="/de/campusleben/neuigkeiten/2018/04/16/2064/">
+                                Ein atomares Quantenbit schaltbar gemacht
+                            </a>
+                        </h2>
+                    
+                    <div class="newsColumns-columnText">
+                        <p>Ein Bit pro Atom: Augsburger Physiker erreichen gemeinsam mit US-amerikanischen Kollegen das wohl ultimative Limit für einen nanoskaligen Datenspeicher.</p>
+                        
+                    </div>
+                    
+                        <a class="newsColumns-columnReadMore"
+                           href="/de/campusleben/neuigkeiten/2018/04/16/2064/">
+                            Weiterlesen
+                        </a>
+                    
+                </div>
+
+                
+                    
+                        <a href="/de/campusleben/neuigkeiten/2018/04/16/2064/">
+                            <img class="newsColumns-columnImage"
+                                 src="https://assets.uni-augsburg.de/media/filer_public_thumbnails/filer_public/6b/3e/6b3ec2df-b4a8-4ccc-a7c6-443ed9da21cc/jesche-illu_thumb.jpg__600x375_q85_crop_subject_location-150%2C90_subsampling-2_upscale.jpg"
+                                 alt="Quantenbit_Jesche">
+                        </a>
+                    
+                
+            </div>
+        </div>
+    
+
+
+
+
+        </div>
+    </div>
+
+    
+
+
+    
+        <div class="textEditorContent">
+    <p> </p>
+
+<p>
+    
+
+    <a href="/de/fakultaet/mntf/physik/groups/exp6/news/"  
+            class="
+            button background-faculty-mathematical-scientific-technical
+            ">Alle Neuigkeiten</a></p>
+</div>
+    
+</div>
+
+    
+
+    
+    </div>
+
+</section>
+
+<section class="section section--content background-white
+    
+    
+    
+    ">
+
+    
+    <div class="container">
+
+
+    
+        
+
+<div  class="section-inner mt-0 mb-0">
+    
+
+    
+        <div class="row layouterRow--outer">
+    <div class="offset-lg-0 col-lg-12">
+        <div class="row layouterRow--inner
+        
+        align-items-start
+
+        
+        
+
+        None"
+
+        
+        >
+            
+
+            
+
+
+    
+            <div class="col-lg-6 col-12">
+                <div class="textEditorContent">
+    <h3><strong>Allgemeine Kontaktinformationen:</strong></h3>
+
+<p><strong>Anschrift: </strong><br>
+Experimentalphysik 6</p>
+
+<p>Universität Augsburg</p>
+
+<p>Universitätsstraße 1</p>
+
+<p>86159 Augsburg</p>
+
+<p><br>
+<strong>Telefon:</strong> +49 821 598 -3651 (Sekretariat)</p>
+
+<p><strong>Fax:</strong> +49 821 598 -3652</p>
+
+<p><strong>E-Mail:</strong> christine.schaefer@physik.uni-augsburg.de (Sekretariat)</p>
+
+<p> </p>
+
+<p><strong>Gebäude: </strong>S</p>
+</div>
+            </div>
+    
+            <div class="col-lg-6 col-12">
+                
+<div class="image">
+    
+    <figure>
+        <img class="image-img" src="https://assets.uni-augsburg.de/media/filer_public_thumbnails/filer_public/f0/14/f0146d22-1b6e-47df-bb27-536620bedc1e/uni_augsburg_campusplan_varianten_sueden_unten_2021.jpg__1080x2000_q85_subject_location-693%2C1244_subsampling-2.jpg"
+            
+            
+            
+            
+        >
+            <figcaption class="image-caption">
+                
+                    <i>© Universität Augsburg</i>
+                </figcaption>
+        </figure>
+    
+    <div class=""></div>
+</div>
+            </div>
+    
+
+            
+
+
+            
+
+
+        </div>
+    </div>
+</div>
+
+
+
+
+
+
+
+    
+</div>
+
+    
+
+    
+    </div>
+
+</section>
+        
+
+        
+
+<div id="searchOverlay" class="searchOverlay">
+    <div class="searchOverlay-container container">
+        <form class="searchOverlay-form" action="/de/suche/" method="GET">
+            <h1 class="searchOverlay-title searchOverlay-heading">
+                Suche
+            </h1>
+
+            <div class="searchOverlay-close">
+                <a class="searchOverlay-closeLink js-searchOverlay-closeLink" href="#">
+                    <span class="searchOverlay-closeIcon icon-close"></span>
+                </a>
+            </div>
+
+            <div class="searchOverlay-searchInput js-searchOverlay-searchInput">
+                <div class="searchInput">
+    <button class="searchInput-icon icon-search" type="submit"></button>
+    <label class="searchInput-label" for="q">Suchbegriff eingeben</label>
+    <input class="searchInput-element" type="text"
+           id="q-"
+           name="q"
+           placeholder="Suchbegriff eingeben"
+           value="">
+</div>
+
+            </div>
+        </form>
+    </div>
+</div>
+
+
+
+        
+        
+        
+    </main>
+
+    
+        
+        
+        
+        
+            
+
+<footer class="footer" role="contentinfo">
+    <div class="container">
+        <div class="footer-upper print-hide">
+            <div class="footer-upperLeft">
+                <div class="footer-icons">
+                    
+                        
+                            <a class="footer-iconLink js-print" href="#">
+                                <span class="icon-print"></span>
+                            </a>
+                        
+                    
+                </div>
+            </div>
+            <div class="footer-upperMiddle"></div>
+            <div class="footer-upperRight">
+                <div class="footer-icons">
+                    
+                        
+                            <a class="footer-iconLink " href="https://www.instagram.com/uni.augsburg/">
+                                <span class="icon-instagram"></span>
+                            </a>
+                        
+                    
+                        
+                            <a class="footer-iconLink " href="https://www.facebook.com/uni.augsburg/">
+                                <span class="icon-facebook"></span>
+                            </a>
+                        
+                    
+                        
+                            <a class="footer-iconLink " href="https://twitter.com/uni__augsburg">
+                                <span class="icon-twitter"></span>
+                            </a>
+                        
+                    
+                        
+                            <a class="footer-iconLink " href="https://www.youtube.com/user/UniversityAugsburg/">
+                                <span class="icon-youtube"></span>
+                            </a>
+                        
+                    
+                        
+                            <div class="footer-iconsSpace"></div>
+                        
+                    
+                        
+                            <a class="footer-iconLink scroll-top-link" href="#">
+                                <span class="icon-arrow-top"></span>
+                            </a>
+                        
+                    
+                </div>
+            </div>
+        </div>
+        <div class="footer-lower">
+            <div class="footer-lowerLeft print-hide">
+                <ul class="footer-linkList">
+                    
+
+
+    <li>
+        
+    
+        
+    
+
+    <a href="/de/portal/presse/"  
+            class="
+            border-hover-only-faculty-facilities  
+            ">Presse und Medien</a>
+    </li>
+
+    <li>
+        
+    
+        
+    
+
+    <a href="/de/services/lageplan/"  
+            class="
+            border-hover-only-faculty-facilities  
+            ">Standorte und Lagepläne</a>
+    </li>
+
+    <li>
+        
+    
+        
+    
+
+    <a href="/de/kontakt/"  
+            class="
+            border-hover-only-faculty-facilities  
+            ">Kontakt</a>
+    </li>
+
+    <li>
+        
+    
+        
+    
+
+    <a href="/de/impressum/"  
+            class="
+            border-hover-only-faculty-facilities  
+            ">Impressum</a>
+    </li>
+
+    <li>
+        
+    
+        
+    
+
+    <a href="/de/impressum/datenschutz/"  
+            class="
+            border-hover-only-faculty-facilities  
+            ">Datenschutz</a>
+    </li>
+
+    <li>
+        
+    
+        
+    
+
+    <a href="/de/barrierefreiheit/"  
+            class="
+            border-hover-only-faculty-facilities  
+            ">Barrierefreiheit</a>
+    </li>
+
+                </ul>
+            </div>
+            <div class="footer-lowerMiddle print-hide"></div>
+            <div class="footer-lowerRight">
+                <div class="footer-address">
+                    <p>Zentrale Postanschrift:<br>Universität Augsburg<br>Universitätsstraße 2<br>86159 Augsburg</p>
+
+<p>Telefonzentrale:<br>Tel. +49 821 598-0</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+        
+    
+
+
+    <div class="js">
+        
+        <script src="https://assets.uni-augsburg.de/static/unia/js/third_party/jquery.min.js"></script>
+        <script src="https://assets.uni-augsburg.de/static/unia/js/third_party/popper.min.js"></script>
+        <script src="https://assets.uni-augsburg.de/static/unia/js/third_party/bootstrap.min.js"></script>
+        <script src="https://assets.uni-augsburg.de/static/unia/js/third_party/modernizr.min.js"></script>
+        <script src="https://assets.uni-augsburg.de/static/unia/js/third_party/slick.min.js"></script>
+        <script src="https://assets.uni-augsburg.de/static/unia/js/third_party/datatables.min.js"></script>
+    
+
+        
+        <script src="https://assets.uni-augsburg.de/static/unia/js/layout.js"></script>
+    
+
+        
+    <script type="text/javascript">
+        function addSpinner(el, static_pos)
+        {
+            var spinner = el.children('.spinner');
+            if (spinner.length && !spinner.hasClass('spinner-remove')) return null;
+            !spinner.length && (spinner = $('<div class="spinner' + (static_pos ? '' : ' spinner-absolute') + '"/>').appendTo(el));
+            animateSpinner(spinner, 'add');
+        }
+
+        function removeSpinner(el, complete)
+        {
+            var spinner = el.children('.spinner');
+            spinner.length && animateSpinner(spinner, 'remove', complete);
+        }
+
+        function animateSpinner(el, animation, complete)
+        {
+            if (el.data('animating')) {
+                el.removeClass(el.data('animating')).data('animating', null);
+                el.data('animationTimeout') && clearTimeout(el.data('animationTimeout'));
+            }
+            el.addClass('spinner-' + animation).data('animating', 'spinner-' + animation);
+            el.data('animationTimeout', setTimeout(function() { animation == 'remove' && el.remove(); complete && complete(); }, parseFloat(el.css('animation-duration')) * 1000));
+        }
+
+        function get_mobile_nav_level(picked_node) {
+            var ctrack = $('.navigation-track--mobile');
+            var picked_node_id = 0;
+            if(picked_node) {
+                picked_node_id = parseInt($(picked_node).attr('data-nav-node-id'));
+            }
+            var cp = "23226";
+            if(!cp) {
+                cp = '1';
+            }
+
+            var url_link = "/de/get_mobile_nav_level/888888888/99999999".replace(/99999999/, picked_node_id.toString()).replace(/888888888/, cp.toString());
+            return $.ajax({
+                url: url_link,
+                data: {
+                },
+                beforeSend: function () {
+                    addSpinner($('#mobile-nav-spinner'));
+                },
+                success: function (data) {
+                    $('#mobile-nav').html(data.toString());
+                    return true;
+                },
+                complete: function (response) {
+                    removeSpinner($('#mobile-nav-spinner'), function () {
+                    });
+                }
+            });
+            // return true;
+        }
+
+        $('#toggle-navigation').click(function() {
+            $('#navbar-main--mobile').toggle();
+            get_mobile_nav_level(0).then(function(success) {
+                // build initial state in mobile navigation: navigate to selected page
+                $(function () {
+                    var initial_root_id = navigation.find('.js-nav-node-initial-root-id').val();
+                    var initial_root = navigation.find('[data-nav-node-id="' + initial_root_id + '"]'),
+                        initial_root_parents = initial_root.parentsUntil(track, '.nav-item').children('.parent'),
+                        initial_root_parents_reversed = initial_root_parents.toArray().reverse();
+                    if(initial_root_parents_reversed.length === 0) {
+                        $('#mobile-nav').html('Keine Navigation verfügbar. Bitte nutzen Sie die Breadcrumb oder besuchen Sie die Startseite.');
+                    }
+                    else {
+                        $.each(initial_root_parents_reversed, function (index, parent) {
+                            var in_navigation = "True";
+                            if (window.location.pathname !== '/de/' && window.location.pathname !== '/en/' && in_navigation === 'True') {
+                                navigateParent(parent);
+                            } else {
+                                $("a[level='0']").show();
+                            }
+                        });
+                    }
+                });
+            });
+        });
+    </script>
+    <script type="text/javascript">
+        var navigation_wrapper = $('.navigation-wrapper'),
+    navigation_brand = $('.navigation-brand'),
+    navigation = $('.navigation'),
+    navigation_toggler = $('.navigation-toggler'),
+    navigation_shadow_overlay = $('.navigation-shadowOverlay--mobile'),
+    navigation_item = $('.navigation-item'),
+    navigation_link = $('.navigation-link'),
+    navigation_link_focus_class = 'focus-within',
+    dropdown_link = $('.navigation-dropdownLink'),
+    dropdown_inner_set = $('.navigation-dropdownInner'),
+    dropdown_inner_link = $('.navigation-dropdownInnerLink'),
+    cms_toolbar = $('.cms-toolbar');
+
+// Add focus class to navigation item to enable tab navigation into dropdown
+navigation_link.on('keydown', function(e) {
+    if (e.which !== 9 || e.shiftKey) return;
+    $(this).closest('.navigation-item').addClass(navigation_link_focus_class);
+});
+
+navigation_link.on('focus', function(e) {
+    $(this).closest('.navigation-item').siblings().removeClass(navigation_link_focus_class);
+    $(this).closest('.navigation-item').addClass(navigation_link_focus_class);
+});
+
+// initial: show first dropdown inner
+navigation_item.hover(function() {
+    // Let's determine which 2nd level item should be highlighted.
+    // If there is an active path to the current page, we highlight the corresponding 2nd level item. Else the first one.
+    var active_path = $.merge($(this).find('.navigation-dropdownItem.ancestor'), $(this).find('.navigation-dropdownItem.selected'));
+    var dropdown_link_to_highlight = $(this).find('.navigation-dropdownLink').first();
+    if (active_path.length !== 0) {
+        dropdown_link_to_highlight = $(active_path).find('.navigation-dropdownLink');
+    }
+
+    // link decoration
+    dropdown_link.removeClass('active');
+    dropdown_link_to_highlight.addClass('active');
+
+    // show dropdown inner
+    dropdown_inner_set.hide();
+    $(dropdown_link_to_highlight.data('target')).show();
+});
+
+// hover or focus: show selected dropdown inner
+function handleDropdownLinkActive() {
+    // link decoration
+    dropdown_link.removeClass('active');
+    $(this).addClass('active');
+
+    // show dropdown inner
+    dropdown_inner_set.hide();
+    $($(this).data('target')).show();
+}
+
+dropdown_link.hover(handleDropdownLinkActive);
+dropdown_link.focus(handleDropdownLinkActive);
+
+// Tab navigation for dropdown link
+dropdown_link.on('keydown', function(e) {
+    if (e.which !== 9 || e.shiftKey) return;
+
+    var item = $(this).closest('.navigation-dropdownItem');
+    var item_index = item.index();
+
+    var inner_items = $(this).closest('.navigation-dropdown')
+        .siblings('.navigation-areaDropdownInner')
+        .find('.navigation-dropdownInner').eq(item_index)
+        .find('.navigation-dropdownInnerItem');
+
+    if (inner_items.length > 0) {
+        var inner_link = inner_items.first().find('.navigation-dropdownInnerLink');
+        inner_link.focus();
+        e.preventDefault();
+    }
+});
+
+// Tab navigation for dropdown inner link
+dropdown_inner_link.on('keydown', function(e) {
+    if (e.which !== 9 || e.shiftKey) return;
+
+    var inner_item = $(this).closest('.navigation-dropdownInnerItem');
+
+    if (inner_item.is(':last-child')) {
+        var dropdown_inner = inner_item.closest('.navigation-dropdownInner');
+        var next_dropdown_link_index = dropdown_inner.index() + 1;
+        var dropdown_items = inner_item.closest('.navigation-areaDropdown').find('.navigation-dropdownItem');
+
+        if (dropdown_items.length > next_dropdown_link_index) {
+            var dropdown_item = dropdown_items.eq(next_dropdown_link_index);
+            dropdown_item.find('.navigation-dropdownLink').focus();
+            e.preventDefault();
+        }
+    }
+});
+
+// mobile nav toggle
+navigation_toggler.click(function() {
+    var expand = $(this).attr('aria-expanded') === 'false';
+
+    navigation_wrapper.toggleClass('expanded');
+    $(this).toggleClass('expanded');
+    $(this).attr('aria-expanded', expand ? 'true' : 'false');
+
+    $($(this).data('target')).toggleClass('show');
+    navigation_shadow_overlay.toggleClass('show');
+
+    // if expand: navigation_wrapper is fixed, thus body needs padding-top
+    navigation_wrapper.css('top', expand ? cms_toolbar.outerHeight() : '');
+});
+
+// collapse mobile nav when clicked on shadow overlay
+navigation_shadow_overlay.click(function() {
+    navigation_toggler.click();
+});
+
+// mobile nav
+
+// navigation_mobile.less: @navigation-mobile-slide-animation-duration
+var slide_animation_duration = 250;
+
+var track = $('.navigation-track--mobile');
+
+function navigateParent(parent) {
+    var slide_left = parseInt(track.attr('data-slide-left'));
+    $( "a[level]" ).hide();
+    var level_parent = parseInt($(parent).attr('level')) + 1;
+    $('a[level="' + level_parent + '"]').show();
+    $(parent).parentsUntil($('.navigation-track--mobile'), '.nav-area').show();
+    $(parent).next('.nav-area').show();
+    track.attr('data-slide-left', slide_left + 1);
+}
+
+function navigateBack(back) {
+    var slide_left = parseInt(track.attr('data-slide-left'));
+    $( "a[level]" ).hide();
+    var level_back = parseInt($(back).attr('level')) - 1;
+    $('a[level="' + level_back + '"]').show();
+    $(back).parentsUntil($('.navigation-track--mobile'), '.nav-area').show();
+    $(back).closest('.nav-area').show();
+    track.attr('data-slide-left', Math.max(slide_left - 1, 0));
+}
+
+$(document).on('click','.parent', function(e) {
+    e.preventDefault();
+    var el_id = $(this).attr('data-nav-node-id');
+    get_mobile_nav_level(this).then(function(success) {
+        if(success) {
+            navigateParent($('a[data-nav-node-id="' + el_id + '"]'));
+            $('html, body').stop().animate({scrollTop: 0}, 'fast');
+        }
+    });
+});
+
+$(document).on('click','.back', function(e) {
+    e.preventDefault();
+    navigateBack(this);
+    $('html, body').stop().animate({scrollTop: 0}, 'fast');
+});
+
+    </script>
+
+
+    <script>
+        var searchOverlaySelector = '#searchOverlay',
+    searchOverlay = $(searchOverlaySelector),
+    searchOverlayTriggerLinks = $('[data-target="' + searchOverlaySelector + '"]'),
+    searchOverlayCloseLink = $('.js-searchOverlay-closeLink'),
+    searchOverlayShownClass = 'is-shown',
+    searchOverlaySearchInput = $('.js-searchOverlay-searchInput input');
+
+// elements with "data-target == searchOverlaySelector" act as triggers
+// for showing the search overlay
+searchOverlayTriggerLinks.click(function(e) {
+    e.preventDefault();
+    e.stopPropagation();
+
+    searchOverlay.addClass(searchOverlayShownClass);
+
+    // focus search input field
+    searchOverlaySearchInput.focus();
+});
+
+// click on icon close link
+searchOverlayCloseLink.click(function(e) {
+    e.preventDefault();
+    closeOverlay();
+});
+
+// close searchOverlay iff it is shown and user clicks outside of it
+$(document).click(function(e) {
+    if (searchOverlay.hasClass(searchOverlayShownClass) && !$(e.target).closest(searchOverlaySelector).length) {
+        closeOverlay();
+    }
+});
+
+// close searchOverlay on ESC press
+$(document).keyup(function(e) {
+    if (e.keyCode === 27) { // escape key
+        closeOverlay();
+    }
+});
+
+
+// close the searchOverlay
+function closeOverlay() {
+    searchOverlay.removeClass(searchOverlayShownClass);
+
+    // clear search term from input field
+    searchOverlaySearchInput.val('');
+}
+    </script>
+
+
+            <script src="https://assets.uni-augsburg.de/static/components/footer/footer.js"></script>
+        
+
+        
+    </div>
+    <span style="display: none"><!--Developer: Michael Schmid
+--></span>
+    
+<script type="text/javascript">
+  var _paq = window._paq || [];
+  
+  _paq.push(['disableCookies']);
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="//analytics.rz.uni-augsburg.de/";
+    _paq.push(['setTrackerUrl', u+'matomo.php']);
+    _paq.push(['setSiteId', 1]);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<noscript><p><img src="//analytics.rz.uni-augsburg.de/piwik.php?idsite=1" style="border:0;" alt="" /></p></noscript>
+
+</body>
+</html>
